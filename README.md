@@ -8,6 +8,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -17,4 +18,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
