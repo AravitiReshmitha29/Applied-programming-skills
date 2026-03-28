@@ -37,6 +37,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
