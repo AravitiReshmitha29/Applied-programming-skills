@@ -22,6 +22,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0066-plus-one/) | Easy |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
@@ -37,4 +38,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0066-plus-one/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
