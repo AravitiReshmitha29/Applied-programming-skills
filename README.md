@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0189-rotate-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
@@ -53,9 +54,14 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0069-sqrtx/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
