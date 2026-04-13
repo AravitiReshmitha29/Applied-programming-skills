@@ -5,12 +5,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -23,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -80,4 +83,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
