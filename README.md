@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
+| [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -37,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0189-rotate-array/) | Medium |
+| [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Matrix
@@ -79,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0118-pascals-triangle/) | Easy |
+| [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
