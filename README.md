@@ -8,6 +8,7 @@
 | [0210-course-schedule-ii](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
+| [0841-keys-and-rooms](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -17,6 +18,7 @@
 | [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
+| [0841-keys-and-rooms](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -31,6 +33,7 @@
 | [0207-course-schedule](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Array
