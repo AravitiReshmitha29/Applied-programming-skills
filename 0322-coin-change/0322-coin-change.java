@@ -5,9 +5,9 @@ class Solution {
         int INF = amount + 1;
         int[] dp = new int[amount + 1];
         Arrays.fill(dp, INF);
-        
+
         dp[0] = 0;
-        
+
         for (int i = 0; i <= amount; i++) {
             for (int coin : coins) {
                 if (coin <= i) {
@@ -15,7 +15,7 @@ class Solution {
                 }
             }
         }
-        
+
         return dp[amount] == INF ? -1 : dp[amount];
     }
 }
