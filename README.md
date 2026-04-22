@@ -86,6 +86,7 @@
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
+| [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@
 | [0049-group-anagrams](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
+| [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0190-reverse-bits/) | Easy |
+| [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +150,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0190-reverse-bits/) | Easy |
+| [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
 <!---LeetCode Topics End-->
