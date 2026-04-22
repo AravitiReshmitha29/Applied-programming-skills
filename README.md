@@ -68,6 +68,7 @@
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0733-flood-fill/) | Easy |
 | [0929-unique-email-addresses](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Matrix
@@ -96,6 +97,7 @@
 | [0069-sqrtx](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0202-happy-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@
 | [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +147,7 @@
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0190-reverse-bits/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -174,4 +178,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
