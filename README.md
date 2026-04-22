@@ -56,6 +56,7 @@
 | [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
@@ -165,6 +166,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0190-reverse-bits/) | Easy |
 | [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Sliding Window
@@ -203,4 +205,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0062-unique-paths/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
