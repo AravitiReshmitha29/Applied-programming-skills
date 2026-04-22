@@ -65,6 +65,7 @@
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0733-flood-fill/) | Easy |
+| [0929-unique-email-addresses](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Matrix
@@ -81,6 +82,7 @@
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
