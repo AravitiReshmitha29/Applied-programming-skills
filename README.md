@@ -64,6 +64,7 @@
 | [0200-number-of-islands](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
@@ -106,6 +107,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0049-group-anagrams/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 | [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
@@ -139,6 +141,7 @@
 | [0118-pascals-triangle](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Topological Sort
