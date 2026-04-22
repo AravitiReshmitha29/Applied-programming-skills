@@ -61,6 +61,7 @@
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0200-number-of-islands/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0069-sqrtx/) | Easy |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0190-reverse-bits/) | Easy |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -155,4 +158,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1763-longest-nice-substring](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1763-longest-nice-substring/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
