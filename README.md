@@ -9,6 +9,7 @@
 | [0210-course-schedule-ii](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0841-keys-and-rooms/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
@@ -23,6 +24,7 @@
 | [0542-01-matrix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
@@ -35,6 +37,7 @@
 | [0200-number-of-islands](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -60,6 +63,7 @@
 | [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
@@ -75,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
+| [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0997-find-the-town-judge/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -87,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
+| [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +111,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
+| [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
