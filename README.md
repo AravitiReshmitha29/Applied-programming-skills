@@ -54,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0118-pascals-triangle/) | Easy |
@@ -79,6 +80,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
@@ -96,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0929-unique-email-addresses/) | Easy |
 ## Trie
@@ -115,6 +118,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
