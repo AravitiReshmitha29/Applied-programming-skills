@@ -60,6 +60,7 @@
 | [0118-pascals-triangle](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
@@ -133,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0118-pascals-triangle/) | Easy |
+| [0198-house-robber](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0542-01-matrix/) | Medium |
 ## Topological Sort
