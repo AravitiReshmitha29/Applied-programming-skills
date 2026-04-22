@@ -66,6 +66,7 @@
 | [0200-number-of-islands](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0200-number-of-islands/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0322-coin-change/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0695-max-area-of-island/) | Medium |
@@ -134,6 +135,7 @@
 | [0049-group-anagrams](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0169-majority-element/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0721-accounts-merge](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
@@ -211,4 +213,8 @@
 | ------- | ------- |
 | [0046-permutations](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0078-subsets/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AravitiReshmitha29/Applied-programming-skills/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 <!---LeetCode Topics End-->
